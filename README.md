@@ -1,5 +1,5 @@
 # rock-paper-scissors
-A simple machine learning to classification an image into three category rock, paper, or scissors.
+🤖 A simple machine learning to classification an image into three category rock, paper, or scissors.
 
 ---
 
@@ -11,35 +11,29 @@ A simple machine learning to classification an image into three category rock, p
 
 ## Getting Started
 
-To run this project on your local system, you can follow these steps:
+To run this project you need a google colab to run python jupiter notebooks, you can follow these steps:
 
 ### Prerequisites
 
-This application uses NPM as its package manager, make sure that your system has NPM installed, but if not you can install it with the following command
+Register google collab using your google account
 
-* npm
+* Google Collabs 
 ```sh
-npm install npm@latest -g
+https://colab.research.google.com/
 ```
 
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/rasatmaja/kawruhe.rasio.dev.git
+git clone https://github.com/rasatmaja/rock-paper-scissors.git
 ```
-2. Install NPM packages
+2. Upload Jupiter notebook into google collabs
 ```sh
-npm install
+File > Upload Notebook
 ```
-3. Create .env files on root directory
-```
-COVID_API_URL=https://api.kawalcorona.com
-```
-4. Run app on local environment
-```sh
-npm run dev
-```
+3. Run the notebook by click run for every code cell
+4. Play with it 🤓
 
 ## What I Learn from this Project 
 On my journey to building this project I learned a few things and I ran into some problems like:
