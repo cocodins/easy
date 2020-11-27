@@ -5,14 +5,9 @@ A simple machine learning to classification an image into three category rock, p
 
 ## Built With
 
-* [NuxtJS](https://nuxtjs.org/) - The Intuitive Vue Framework
-* [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
-* [Vercel](https://vercel.com/dashboard) - Deploy web projects with the best frontend developer experience and highest end-user performance.
-
-## Assets
-
-* [Story by freepik](https://stories.freepik.com/) - Awesome illustrations for your next project
-* [Corona Live Data by kawalconorna.com](https://kawalcorona.com/api/) - Coronavirus Global & Indonesia Live Data
+* [Google Colab](https://colab.research.google.com/) - Colab notebooks allow you to combine executable code and rich text in a single document, along with images, HTML, LaTeX and more.
+* [TensorFlow](https://www.tensorflow.org/) - The core open source library to help you develop and train ML models. Get started quickly by running Colab notebooks directly in your browser.
+* [Keras](https://keras.io/) - is an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear & actionable error messages. It also has extensive documentation and developer guides.
 
 ## Getting Started
 
