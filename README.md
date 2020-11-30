@@ -36,11 +36,11 @@ File > Upload Notebook
 4. Play with it 🤓
 
 ## What I Learn from this Project 
-On my journey to building this project I learned a few things and I ran into some problems like:
+On my journey to building this project I learned a new things like:
 
-1. Implement NuxtJS on prouction mode
-2. Integrate tailwind with NuxtJS project
-3. Make entering animation when object on view port using `Srcroll Observer`
-4. Using proxy on axios
-5. Learn how to deploy NuxtJS App on [Vercel](https://vercel.com/)
-6. Can't use module @nuxt/content on vercel, my guest is vercel dosen fully suppport and optimize with all nuxt module
+1. Basic machine learning
+2. Code AI with python
+3. Implemeneting Tensorflow and keras
+4. Basic object detection
+5. Basic object classifications
+
